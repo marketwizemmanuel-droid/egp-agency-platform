@@ -1,0 +1,6 @@
+{
+  "name": "EGP Agency - Creative & Digital Studio",
+  "description": "Portfolio website for EGP Agency, a premier creative studio delivering brand design, digital experiences, motion graphics, and creative intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
